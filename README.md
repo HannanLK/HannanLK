@@ -2,7 +2,7 @@
     <img src="https://github.com/HannanLK/HannanLK/blob/8b3b887f65635acc58d4eaf70afbf8d85f38a0ef/Gif%20Video.gif" alt="MasterHead" />
 </div>
 
-<h1 align="center" >Hi, I'm Hannan Munas 👋</h1>
+<h1 align="center" >Hi, I'm Hannan Munas 👋 <br><br> Full-Stack Developer | Software Engineering Student </h1>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hannanlk.hannanlk)
 
