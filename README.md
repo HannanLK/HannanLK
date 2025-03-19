@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 <img width="100%" src="https://github.com/HannanLK/HannanLK/blob/c695b16c767a0e55d04263fcda4cb6ceac7e2be5/line.gif">
-<p align="center"><strong>CONNECT WITH US</strong></p>
+<p><strong>CONNECT WITH US</strong></p>
 
-<p align="center">
+<p>
 <a href="mailto:hannanmunas76@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/hannanmunas">
 <img src="https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
