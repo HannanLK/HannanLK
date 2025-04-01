@@ -86,7 +86,7 @@ Big believer in:
 </a>
 
 <img width="100%" src="https://github.com/HannanLK/HannanLK/blob/c695b16c767a0e55d04263fcda4cb6ceac7e2be5/line.gif">
-<p><strong>CONNECT WITH US</strong></p>
+<p><strong>CONNECT WITH ME</strong></p>
 
 <p>
 <a href="mailto:hannanmunas76@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
