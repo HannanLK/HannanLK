@@ -99,9 +99,6 @@ Big believer in:
 <a href="https://medium.com/@hannanlk">
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 </a>
-<a href="https://github.com/HannanLK/HannanLK/blob/30fb71ab07d6d4928f63be35ec5624b325607e7f/Hannan%20Resume%201.pdf" target="_blank">
-<img src="https://img.shields.io/badge/Resume%20Build-800080?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Build">
-</a>
 </p>
 
 <!--
