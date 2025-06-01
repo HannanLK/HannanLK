@@ -80,12 +80,6 @@ Big believer in:
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannanlk&layout=compact&theme=radical"/>
 </div>
 
-## 🎧 Spotify Playing
-<a href="https://open.spotify.com/track/1X1DWw2pcNZ8zSub3uhlNz?si=3870812efffd4255">
-<img src="https://github.com/HannanLK/HannanLK/blob/ea10c39847ca3e17f850ba1e12fcd5206cc2d841/Screenshot%202025-03-20%20041753.png" alt="Hall of Fame">
-</a>
-
-<img width="100%" src="https://github.com/HannanLK/HannanLK/blob/c695b16c767a0e55d04263fcda4cb6ceac7e2be5/line.gif">
 <p><strong>CONNECT WITH ME</strong></p>
 
 <p>
