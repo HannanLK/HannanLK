@@ -8,44 +8,6 @@
 
 <p align="justify">A passionate and driven software engineering student eager to explore new technologies and solve real-world challenges. I specialize in full-stack development, contributing to both frontend and backend solutions while continuously expanding my knowledge. With strategic thinking and adaptability, I embrace innovation and seek opportunities to refine my skills. A quick learner with a proactive mindset, I am committed to continuous growth and making a meaningful impact in the ever-evolving tech industry. </p>
 
-
-
-<details>
-  <summary>Highlights / Proficiencies / Interests / Believes</summary>
-
-Highlights:
-- ⭐ 2nd-year Software Engineering student at APIIT Sri Lanka (Staffordshire University, UK)
-- ⭐ Strong foundation in full-stack development (Laravel, Flutter, React, Node.js)
-- ⭐ Hands-on experience in web and mobile application development
-- ⭐ Worked on multiple academic and personal projects, including e-commerce platforms and management systems
-- ⭐ Passionate about solving real-world problems through software solutions
-- ⭐ Strong leadership experience in university organizations (Toastmasters, LEO Club)
-
-Proficiencies:
-- 📚 JavaScript, TypeScript, Node.js with Serverless and Containers and Microservices architecture
-- 📚 Front-End Development: HTML5, CSS3, JavaScript, React.js, Flutter
-- 📚 Back-End Development: PHP (Laravel), Node.js (Express)
-- 📚 Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-- 📚 Version Control: Git, GitHub
-- 📚 UI/UX: Figma, Tailwind CSS
-- 📚 Agile & Project Management: Scrum, Kanban
-- 📚 Desktop Applications: C# (Windows Forms, .NET)
-
-Interests:
-- ✔️ Continuous Learning: Always exploring new technologies and improving coding skills
-- ✔️ Software Development: Passionate about building scalable and efficient web and mobile applications
-- ✔️ Tech Leadership & Mentorship: Helping peers grow and develop in software engineering
-- ✔️ Sports & Fitness: Enjoys staying active through gym and outdoor activities
-
-Big believer in:
-- 💡 The power of continuous learning and self-improvement
-- 💡 The importance of ethical coding and responsible software development
-- 💡 The value of teamwork and collaboration in achieving great results
-- 💡 Embracing innovation and adaptability in the fast-changing tech landscape
-- 💡 Building technology that makes a positive impact in society
-
-</details>
-
 ## 🥇 Primary Technology Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
